@@ -1,11 +1,9 @@
-# One Page Wonder Jekyll
+# Odin Knowledge Base
 
-[Jekyll](https://github.com/jekyll/jekyll) port of [One Page Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder).
+Odin is a Jekyll template for knowledgebases and support sites. Please see the [official Jekyll docs](https://jekyllrb.com/docs/) for more info on running, building and editing a Jekyll site.
 
-## Contributing
+*Full documentation is in the works and coming soon*
 
-1. Fork it ( https://github.com/mushishi78/one-page-wonder-jekyll/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+
+
+
