@@ -1,8 +1,23 @@
 #This file defines all the categories you
 
+#getting-started:
+#  name: Service for person
+#  description: If your personal PC is broken
+
+#customizing-odin:
+#  name: Service for small business
+#  description: If you own a small business
+
+#using-odin:
+#  name: We hiring
+#  description: If you want to help others
+
 getting-started:
-  name: We need help
-  description: If your PC is broken
+  name: Service for small business
+  description: Welcome to Odin, time to get started
 using-odin:
-  name: We can provide help
-  description: If you want to help other
+  name: We are hiring
+  description: Welcome to Odin, time to get started
+customizing-odin:
+  name: Service for person
+  description: Welcome to Odin, time to get started
