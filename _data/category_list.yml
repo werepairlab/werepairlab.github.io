@@ -1,12 +1,8 @@
-#This file defines all the categories you 
-
+#This file defines all the categories you
 
 getting-started:
-  name: Getting Started
-  description: Welcome to Odin, time to get started
+  name: We need help
+  description: If your PC is broken
 using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
-customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+  name: We can provide help
+  description: If you want to help other

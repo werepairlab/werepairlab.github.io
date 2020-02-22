@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Odin - A Jekyll Knowledge Base Theme
-description: Odin is a simple to setup and use Jekyll theme for help desks and knowledge bases. Hosts for free on Github Pages!
-baseurl: /odin # the subpath of your site, e.g. /support
-url: https://teaguns.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+title: Yes! We Repair!
+description: We are a platform provides PC service and repairment.
+baseurl: '' # the subpath of your site, e.g. /support
+url: https://werepairlab.github.io/ # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
-content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
+content_type: Help Center #Define whether this is a knowledge base, help center, or something else
 use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
-brand_name: Odin
+brand_name: RepairLab
 header: How can we help you?
-subheader: Support and documentation for Odin
+subheader: Support From RepairLab
 
 meta_image: odin-meta.png
 
@@ -40,7 +40,7 @@ facebook_page:
 github_username: TeaGuns
 email: m@credd.in
 linkedin_page:
-instagram_username: 
+instagram_username:
 
 
 # Navivation
@@ -53,8 +53,8 @@ nav_item_two_link: https://twitter.com/TheTeaGuns
 nav_item_three: #
 nav_item_three_link: #
 
-nav_button: Return to Odin Home
-nav_button_link: https://teaguns.github.io/odin/
+nav_button: Return to RepairLab Home
+nav_button_link: https://werepairlab.github.io/
 
 # More Help
 help_one_title: Odin Bugs
