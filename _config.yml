@@ -62,9 +62,9 @@ help_one_content: If you want to have IT service for your whole company.
 help_one_button: Premium
 help_one_link: https://github.com/TeaGuns/odin/issues
 
-help_two_title: Twitter
-help_two_content: Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.
-help_two_button: Twitter
+help_two_title: Online service
+help_two_content: Feel free to contact us.
+help_two_button: Chat Online
 help_two_link: https://twitter.com/
 
 # Build settings
