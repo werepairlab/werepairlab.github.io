@@ -45,7 +45,7 @@ instagram_username:
 
 # Navivation
 nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
+nav_item_one_link: https://github.com/werepairlab/werepairlab.github.io
 
 nav_item_two: Twitter
 nav_item_two_link: https://twitter.com/
@@ -57,10 +57,10 @@ nav_button: About RepairLab
 nav_button_link: https://werepairlab.github.io/
 
 # More Help
-help_one_title: IT service for companies
-help_one_content: If you want to have IT service for your whole company.
-help_one_button: Premium
-help_one_link: https://github.com/TeaGuns/odin/issues
+help_one_title: Our Partners
+help_one_content: Lists of our Partners at here. Certification partners and customers.
+#help_one_button: Premium
+#help_one_link: https://github.com/TeaGuns/odin/issues
 
 help_two_title: Online service
 help_two_content: Feel free to contact us.
