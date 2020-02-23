@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: StoryBook
-description: We are a platform provides IT service and DevOps.
+description: We are a platform provides IT and DevOps service.
 baseurl: '' # the subpath of your site, e.g. /support
 url: https://werepairlab.github.io/ # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
